@@ -1,0 +1,8 @@
+win32serviceutil
+tqdm
+psutil
+pywifi
+customtkinter
+fpdf
+scapy
+ctypes
