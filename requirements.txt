@@ -6,3 +6,4 @@ customtkinter
 fpdf
 scapy
 ctypes
+termcolor
